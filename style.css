@@ -1,0 +1,26 @@
+.page {
+  margin: 0;
+}
+
+.header {
+  background-color: blue;
+  color: white;
+}
+
+.header__text {
+  font-size: 100px;
+  text-align: center;
+  margin: 0;
+}
+
+.paragraph {
+  background-color: #efaf6f;
+  color: #06482f;
+}
+
+.paragraph__text {
+  font-size: 45px;
+  text-align: center;
+  margin: 0;
+  padding: 30px;
+}
